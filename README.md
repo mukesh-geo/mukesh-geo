@@ -1,17 +1,81 @@
-## Hi there 👋
+# Mukesh Geo 🌍
+## Geoinformatics Engineering | Spatial Analytics | GIS Solutions
 
-As a geoinformatics engineering professional with specialised expertise of 3+ years in Remote Sensing, Geographic Information Systems, and Spatial Modelling. I leverage cutting-edge geospatial technologies to optimise urban planning and land resource management strategies. My work has driven the development of innovative GIS solutions, advanced data analytics frameworks, and enterprise-level prototypes that address complex spatial challenges across flagship projects.
+---
 
-My academic foundation combines a Master of Technology in Geoinformatics Engineering with a Bachelor of Technology in Civil Engineering, providing me with comprehensive theoretical knowledge and practical capabilities spanning the geospatial technology spectrum.
+## About Me
 
-I've cultivated proficiency across diverse geospatial technologies and programming environments:
+I am a **geoinformatics engineering professional** with **3+ years of specialized expertise** in Remote Sensing, Geographic Information Systems (GIS), and Spatial Modelling. I leverage cutting-edge geospatial technologies to optimize urban planning and land resource management strategies.
 
-• Geospatial Analysis: ArcGIS Suite, QGIS, Google Earth Engine, spatial statistics 
+Throughout my career, I have driven the development of:
+- **Innovative GIS Solutions** addressing complex spatial challenges
+- **Advanced Data Analytics Frameworks** for enterprise-level decision-making
+- **Enterprise-Grade Prototypes** deployed across flagship projects
 
-• Technical Design: AutoCAD, photogrammetry, 3D modeling, digital terrain analysis 
+My unique value proposition lies in bridging theoretical geospatial knowledge with practical implementation of AI/ML-integrated spatial analytics.
 
-• Programming: Python, JavaScript, SQL, Node.js for automation and custom applications 
+---
 
-• Emerging Technologies: Machine learning and deep learning integration for predictive spatial analytics
+## 📚 Education
 
-My current focus includes developing scalable geospatial solutions that integrate AI/ML capabilities to enhance decision-making processes in land management and urban planning contexts.
+| Degree | Institution |
+|--------|-------------|
+| **Master of Technology** | Geoinformatics Engineering |
+| **Bachelor of Technology** | Civil Engineering |
+
+This academic foundation provides comprehensive theoretical knowledge and practical capabilities across the geospatial technology spectrum.
+
+---
+
+## 🛠️ Technical Expertise
+
+### **Geospatial Analysis & Mapping**
+- ArcGIS Suite (Desktop, Online, Pro)
+- QGIS
+- Google Earth Engine
+- Spatial Statistics & Geostatistics
+
+### **Technical Design & Visualization**
+- AutoCAD (2D & 3D)
+- Photogrammetry
+- 3D Modeling & Visualization
+- Digital Terrain Analysis (DEM, DTM)
+
+### **Programming & Automation**
+- **Python** (GeoPandas, Rasterio, Shapely, GDAL)
+- **JavaScript/Node.js** (Geospatial Web Applications)
+- **SQL** (Spatial Databases)
+- Custom GIS automation & scripting
+
+### **Emerging Technologies**
+- Machine Learning Integration
+- Deep Learning for Spatial Analytics
+- Predictive Geospatial Modeling
+- AI-Driven Land Use & Urban Planning
+
+---
+
+## 🎯 Current Focus
+
+I am dedicated to **developing scalable geospatial solutions** that seamlessly integrate **AI/ML capabilities** to enhance decision-making processes in:
+- 🏗️ Urban Planning & Development
+- 🌱 Land Management & Conservation
+- 🗺️ Spatial Intelligence & Predictive Analytics
+- 🌐 Enterprise GIS Applications
+
+---
+
+## 🚀 Let's Collaborate
+
+I am open to opportunities in:
+- Geospatial Data Analysis & Modeling
+- GIS Application Development
+- Remote Sensing Projects
+- Urban Planning & Land Use Studies
+- AI/ML Integration for Spatial Analytics
+
+**Get in touch:** [Your contact/portfolio link]
+
+---
+
+*Transforming geospatial data into actionable intelligence.*
