@@ -1,6 +1,4 @@
 # Mukesh Yadav
-## Geoinformatics Engineering | Spatial Analytics | GIS Solutions
-
 ---
 
 ## About Me
