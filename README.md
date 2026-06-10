@@ -1,4 +1,4 @@
-# Mukesh Geo 🌍
+# Mukesh Yadav
 ## Geoinformatics Engineering | Spatial Analytics | GIS Solutions
 
 ---
@@ -16,7 +16,7 @@ My unique value proposition lies in bridging theoretical geospatial knowledge wi
 
 ---
 
-## 📚 Education
+## Education
 
 | Degree | Institution |
 |--------|-------------|
@@ -27,7 +27,7 @@ This academic foundation provides comprehensive theoretical knowledge and practi
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 ### **Geospatial Analysis & Mapping**
 - ArcGIS Suite (Desktop, Online, Pro)
@@ -74,7 +74,7 @@ I am open to opportunities in:
 - Urban Planning & Land Use Studies
 - AI/ML Integration for Spatial Analytics
 
-**Get in touch:** [Your contact/portfolio link]
+**Get in touch:** https://www.linkedin.com/in/raomonu/
 
 ---
 
